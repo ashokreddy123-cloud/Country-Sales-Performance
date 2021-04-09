@@ -1,0 +1,1855 @@
+<Query>
+  <XmlData>
+    <Data>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>France</SalesTerritoryCountry>
+        <SalesTerritoryRegion>France</SalesTerritoryRegion>
+        <Salesperson>Ranjit Varkey Chudukatil</Salesperson>
+        <Phone>1 (11) 500 555-0117</Phone>
+        <Sales>554654.078</Sales>
+        <Quota>2833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Germany</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Germany</SalesTerritoryRegion>
+        <Salesperson>Rachel Valdez</Salesperson>
+        <Phone>1 (11) 500 555-0140</Phone>
+        <Sales>1763286.047</Sales>
+        <Quota>1666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United Kingdom</SalesTerritoryCountry>
+        <SalesTerritoryRegion>United Kingdom</SalesTerritoryRegion>
+        <Salesperson>Jae Pak</Salesperson>
+        <Phone>1 (11) 500 555-0145</Phone>
+        <Sales>4843863.167</Sales>
+        <Quota>3666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>Garrett Vargas</Salesperson>
+        <Phone>922-555-0165</Phone>
+        <Sales>166599.283</Sales>
+        <Quota>1333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>José Saraiva</Salesperson>
+        <Phone>185-555-0169</Phone>
+        <Sales>1524844.906</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Central</SalesTerritoryRegion>
+        <Salesperson>Jillian Carson</Salesperson>
+        <Phone>517-555-0117</Phone>
+        <Sales>2621057.299</Sales>
+        <Quota>3333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northeast</SalesTerritoryRegion>
+        <Salesperson>Michael Blythe</Salesperson>
+        <Phone>257-555-0154</Phone>
+        <Sales>2482922.913</Sales>
+        <Quota>333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>David Campbell</Salesperson>
+        <Phone>740-555-0182</Phone>
+        <Sales>1721066.824</Sales>
+        <Quota>1750000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Pamela Ansman-Wolfe</Salesperson>
+        <Phone>340-555-0193</Phone>
+        <Sales>1123360.764</Sales>
+        <Quota>1833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Tete Mensa-Annan</Salesperson>
+        <Phone>615-555-0153</Phone>
+        <Sales>985499.79</Sales>
+        <Quota>1250000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southeast</SalesTerritoryRegion>
+        <Salesperson>Tsvi Reiter</Salesperson>
+        <Phone>664-555-0112</Phone>
+        <Sales>1708754.567</Sales>
+        <Quota>2166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Linda Mitchell</Salesperson>
+        <Phone>883-555-0116</Phone>
+        <Sales>3081923.06</Sales>
+        <Quota>4166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Shu Ito</Salesperson>
+        <Phone>330-555-0120</Phone>
+        <Sales>3543305.894</Sales>
+        <Quota>2500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200101</MonthKey>
+        <Month>2020 Jan</Month>
+        <SalesTerritoryGroup>Pacific</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Australia</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Australia</SalesTerritoryRegion>
+        <Salesperson>Lynn Tsoflias</Salesperson>
+        <Phone>1 (11) 500 555-0190</Phone>
+        <Sales>498247.142</Sales>
+        <Quota>883333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>France</SalesTerritoryCountry>
+        <SalesTerritoryRegion>France</SalesTerritoryRegion>
+        <Salesperson>Ranjit Varkey Chudukatil</Salesperson>
+        <Phone>1 (11) 500 555-0117</Phone>
+        <Sales>6868743.304</Sales>
+        <Quota>2833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Germany</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Germany</SalesTerritoryRegion>
+        <Salesperson>Rachel Valdez</Salesperson>
+        <Phone>1 (11) 500 555-0140</Phone>
+        <Sales>1859151.558</Sales>
+        <Quota>1666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United Kingdom</SalesTerritoryCountry>
+        <SalesTerritoryRegion>United Kingdom</SalesTerritoryRegion>
+        <Salesperson>Jae Pak</Salesperson>
+        <Phone>1 (11) 500 555-0145</Phone>
+        <Sales>2807983.768</Sales>
+        <Quota>3666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>Garrett Vargas</Salesperson>
+        <Phone>922-555-0165</Phone>
+        <Sales>2703393.918</Sales>
+        <Quota>1333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>José Saraiva</Salesperson>
+        <Phone>185-555-0169</Phone>
+        <Sales>1926781.353</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Central</SalesTerritoryRegion>
+        <Salesperson>Jillian Carson</Salesperson>
+        <Phone>517-555-0117</Phone>
+        <Sales>3451136.643</Sales>
+        <Quota>3333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northeast</SalesTerritoryRegion>
+        <Salesperson>Michael Blythe</Salesperson>
+        <Phone>257-555-0154</Phone>
+        <Sales>4497981.591</Sales>
+        <Quota>333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>David Campbell</Salesperson>
+        <Phone>740-555-0182</Phone>
+        <Sales>1834197.066</Sales>
+        <Quota>1750000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Pamela Ansman-Wolfe</Salesperson>
+        <Phone>340-555-0193</Phone>
+        <Sales>604259.467</Sales>
+        <Quota>1833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Tete Mensa-Annan</Salesperson>
+        <Phone>615-555-0153</Phone>
+        <Sales>1244660.6</Sales>
+        <Quota>1250000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southeast</SalesTerritoryRegion>
+        <Salesperson>Tsvi Reiter</Salesperson>
+        <Phone>664-555-0112</Phone>
+        <Sales>2745766.758</Sales>
+        <Quota>2166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Linda Mitchell</Salesperson>
+        <Phone>883-555-0116</Phone>
+        <Sales>6596073.977</Sales>
+        <Quota>4166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Shu Ito</Salesperson>
+        <Phone>330-555-0120</Phone>
+        <Sales>1291245.311</Sales>
+        <Quota>2500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200201</MonthKey>
+        <Month>2020 Feb</Month>
+        <SalesTerritoryGroup>Pacific</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Australia</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Australia</SalesTerritoryRegion>
+        <Salesperson>Lynn Tsoflias</Salesperson>
+        <Phone>1 (11) 500 555-0190</Phone>
+        <Sales>1342809.824</Sales>
+        <Quota>883333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>France</SalesTerritoryCountry>
+        <SalesTerritoryRegion>France</SalesTerritoryRegion>
+        <Salesperson>Ranjit Varkey Chudukatil</Salesperson>
+        <Phone>1 (11) 500 555-0117</Phone>
+        <Sales>1968507.723</Sales>
+        <Quota>2833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Germany</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Germany</SalesTerritoryRegion>
+        <Salesperson>Rachel Valdez</Salesperson>
+        <Phone>1 (11) 500 555-0140</Phone>
+        <Sales>1254395.381</Sales>
+        <Quota>1666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United Kingdom</SalesTerritoryCountry>
+        <SalesTerritoryRegion>United Kingdom</SalesTerritoryRegion>
+        <Salesperson>Jae Pak</Salesperson>
+        <Phone>1 (11) 500 555-0145</Phone>
+        <Sales>4150469.295</Sales>
+        <Quota>3666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>Garrett Vargas</Salesperson>
+        <Phone>922-555-0165</Phone>
+        <Sales>1769967.349</Sales>
+        <Quota>1333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>José Saraiva</Salesperson>
+        <Phone>185-555-0169</Phone>
+        <Sales>4626196.226</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Central</SalesTerritoryRegion>
+        <Salesperson>Jillian Carson</Salesperson>
+        <Phone>517-555-0117</Phone>
+        <Sales>4156607.063</Sales>
+        <Quota>3333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northeast</SalesTerritoryRegion>
+        <Salesperson>Michael Blythe</Salesperson>
+        <Phone>257-555-0154</Phone>
+        <Sales>5299759.898</Sales>
+        <Quota>333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>David Campbell</Salesperson>
+        <Phone>740-555-0182</Phone>
+        <Sales>1741351.986</Sales>
+        <Quota>1750000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Pamela Ansman-Wolfe</Salesperson>
+        <Phone>340-555-0193</Phone>
+        <Sales>1847865.101</Sales>
+        <Quota>1833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Tete Mensa-Annan</Salesperson>
+        <Phone>615-555-0153</Phone>
+        <Sales>1694253.877</Sales>
+        <Quota>1250000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southeast</SalesTerritoryRegion>
+        <Salesperson>Tsvi Reiter</Salesperson>
+        <Phone>664-555-0112</Phone>
+        <Sales>2104650.178</Sales>
+        <Quota>2166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Linda Mitchell</Salesperson>
+        <Phone>883-555-0116</Phone>
+        <Sales>3330221.1</Sales>
+        <Quota>4166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Shu Ito</Salesperson>
+        <Phone>330-555-0120</Phone>
+        <Sales>2628700.21</Sales>
+        <Quota>2500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200301</MonthKey>
+        <Month>2020 Mar</Month>
+        <SalesTerritoryGroup>Pacific</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Australia</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Australia</SalesTerritoryRegion>
+        <Salesperson>Lynn Tsoflias</Salesperson>
+        <Phone>1 (11) 500 555-0190</Phone>
+        <Sales>1548537.773</Sales>
+        <Quota>883333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>France</SalesTerritoryCountry>
+        <SalesTerritoryRegion>France</SalesTerritoryRegion>
+        <Salesperson>Ranjit Varkey Chudukatil</Salesperson>
+        <Phone>1 (11) 500 555-0117</Phone>
+        <Sales>538344.018</Sales>
+        <Quota>3000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Germany</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Germany</SalesTerritoryRegion>
+        <Salesperson>Rachel Valdez</Salesperson>
+        <Phone>1 (11) 500 555-0140</Phone>
+        <Sales>1918876.693</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United Kingdom</SalesTerritoryCountry>
+        <SalesTerritoryRegion>United Kingdom</SalesTerritoryRegion>
+        <Salesperson>Jae Pak</Salesperson>
+        <Phone>1 (11) 500 555-0145</Phone>
+        <Sales>3889507.724</Sales>
+        <Quota>3833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>Garrett Vargas</Salesperson>
+        <Phone>922-555-0165</Phone>
+        <Sales>134169.24</Sales>
+        <Quota>1500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>José Saraiva</Salesperson>
+        <Phone>185-555-0169</Phone>
+        <Sales>1160941.021</Sales>
+        <Quota>1833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Central</SalesTerritoryRegion>
+        <Salesperson>Jillian Carson</Salesperson>
+        <Phone>517-555-0117</Phone>
+        <Sales>2429819.756</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northeast</SalesTerritoryRegion>
+        <Salesperson>Michael Blythe</Salesperson>
+        <Phone>257-555-0154</Phone>
+        <Sales>2221828.369</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>David Campbell</Salesperson>
+        <Phone>740-555-0182</Phone>
+        <Sales>1177423.53</Sales>
+        <Quota>1250000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Pamela Ansman-Wolfe</Salesperson>
+        <Phone>340-555-0193</Phone>
+        <Sales>1120098.219</Sales>
+        <Quota>1833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Tete Mensa-Annan</Salesperson>
+        <Phone>615-555-0153</Phone>
+        <Sales>979206.609</Sales>
+        <Quota>1166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southeast</SalesTerritoryRegion>
+        <Salesperson>Tsvi Reiter</Salesperson>
+        <Phone>664-555-0112</Phone>
+        <Sales>1532498.818</Sales>
+        <Quota>1916666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Linda Mitchell</Salesperson>
+        <Phone>883-555-0116</Phone>
+        <Sales>2085711.412</Sales>
+        <Quota>3333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Shu Ito</Salesperson>
+        <Phone>330-555-0120</Phone>
+        <Sales>3056618.576</Sales>
+        <Quota>2166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200401</MonthKey>
+        <Month>2020 Apr</Month>
+        <SalesTerritoryGroup>Pacific</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Australia</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Australia</SalesTerritoryRegion>
+        <Salesperson>Lynn Tsoflias</Salesperson>
+        <Phone>1 (11) 500 555-0190</Phone>
+        <Sales>553414.62</Sales>
+        <Quota>933333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>France</SalesTerritoryCountry>
+        <SalesTerritoryRegion>France</SalesTerritoryRegion>
+        <Salesperson>Ranjit Varkey Chudukatil</Salesperson>
+        <Phone>1 (11) 500 555-0117</Phone>
+        <Sales>6142684.005</Sales>
+        <Quota>3000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Germany</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Germany</SalesTerritoryRegion>
+        <Salesperson>Rachel Valdez</Salesperson>
+        <Phone>1 (11) 500 555-0140</Phone>
+        <Sales>1836091.75</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United Kingdom</SalesTerritoryCountry>
+        <SalesTerritoryRegion>United Kingdom</SalesTerritoryRegion>
+        <Salesperson>Jae Pak</Salesperson>
+        <Phone>1 (11) 500 555-0145</Phone>
+        <Sales>2300462.238</Sales>
+        <Quota>3833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>Garrett Vargas</Salesperson>
+        <Phone>922-555-0165</Phone>
+        <Sales>2033738.647</Sales>
+        <Quota>1500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>José Saraiva</Salesperson>
+        <Phone>185-555-0169</Phone>
+        <Sales>1697162.314</Sales>
+        <Quota>1833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Central</SalesTerritoryRegion>
+        <Salesperson>Jillian Carson</Salesperson>
+        <Phone>517-555-0117</Phone>
+        <Sales>2254134.544</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northeast</SalesTerritoryRegion>
+        <Salesperson>Michael Blythe</Salesperson>
+        <Phone>257-555-0154</Phone>
+        <Sales>4070017.703</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>David Campbell</Salesperson>
+        <Phone>740-555-0182</Phone>
+        <Sales>1063804.38</Sales>
+        <Quota>1250000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Pamela Ansman-Wolfe</Salesperson>
+        <Phone>340-555-0193</Phone>
+        <Sales>539198.993</Sales>
+        <Quota>1833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Tete Mensa-Annan</Salesperson>
+        <Phone>615-555-0153</Phone>
+        <Sales>1213668.24</Sales>
+        <Quota>1166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southeast</SalesTerritoryRegion>
+        <Salesperson>Tsvi Reiter</Salesperson>
+        <Phone>664-555-0112</Phone>
+        <Sales>2318025.685</Sales>
+        <Quota>1916666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Linda Mitchell</Salesperson>
+        <Phone>883-555-0116</Phone>
+        <Sales>5667275.524</Sales>
+        <Quota>3333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Shu Ito</Salesperson>
+        <Phone>330-555-0120</Phone>
+        <Sales>999876.66</Sales>
+        <Quota>2166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200501</MonthKey>
+        <Month>2020 May</Month>
+        <SalesTerritoryGroup>Pacific</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Australia</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Australia</SalesTerritoryRegion>
+        <Salesperson>Lynn Tsoflias</Salesperson>
+        <Phone>1 (11) 500 555-0190</Phone>
+        <Sales>1213642.2</Sales>
+        <Quota>933333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>France</SalesTerritoryCountry>
+        <SalesTerritoryRegion>France</SalesTerritoryRegion>
+        <Salesperson>Ranjit Varkey Chudukatil</Salesperson>
+        <Phone>1 (11) 500 555-0117</Phone>
+        <Sales>1394672.278</Sales>
+        <Quota>3000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Germany</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Germany</SalesTerritoryRegion>
+        <Salesperson>Rachel Valdez</Salesperson>
+        <Phone>1 (11) 500 555-0140</Phone>
+        <Sales>979474.438</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United Kingdom</SalesTerritoryCountry>
+        <SalesTerritoryRegion>United Kingdom</SalesTerritoryRegion>
+        <Salesperson>Jae Pak</Salesperson>
+        <Phone>1 (11) 500 555-0145</Phone>
+        <Sales>5095993.448</Sales>
+        <Quota>3833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>Garrett Vargas</Salesperson>
+        <Phone>922-555-0165</Phone>
+        <Sales>2025169.386</Sales>
+        <Quota>1500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>José Saraiva</Salesperson>
+        <Phone>185-555-0169</Phone>
+        <Sales>2748022.156</Sales>
+        <Quota>1833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Central</SalesTerritoryRegion>
+        <Salesperson>Jillian Carson</Salesperson>
+        <Phone>517-555-0117</Phone>
+        <Sales>3250110.232</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northeast</SalesTerritoryRegion>
+        <Salesperson>Michael Blythe</Salesperson>
+        <Phone>257-555-0154</Phone>
+        <Sales>3682149.52</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>David Campbell</Salesperson>
+        <Phone>740-555-0182</Phone>
+        <Sales>1446032.1</Sales>
+        <Quota>1250000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Pamela Ansman-Wolfe</Salesperson>
+        <Phone>340-555-0193</Phone>
+        <Sales>1790160.422</Sales>
+        <Quota>1833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Tete Mensa-Annan</Salesperson>
+        <Phone>615-555-0153</Phone>
+        <Sales>1273384.411</Sales>
+        <Quota>1166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southeast</SalesTerritoryRegion>
+        <Salesperson>Tsvi Reiter</Salesperson>
+        <Phone>664-555-0112</Phone>
+        <Sales>1850235.734</Sales>
+        <Quota>1916666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Linda Mitchell</Salesperson>
+        <Phone>883-555-0116</Phone>
+        <Sales>2893061.286</Sales>
+        <Quota>3333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Shu Ito</Salesperson>
+        <Phone>330-555-0120</Phone>
+        <Sales>2302801.23</Sales>
+        <Quota>2166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200601</MonthKey>
+        <Month>2020 Jun</Month>
+        <SalesTerritoryGroup>Pacific</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Australia</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Australia</SalesTerritoryRegion>
+        <Salesperson>Lynn Tsoflias</Salesperson>
+        <Phone>1 (11) 500 555-0190</Phone>
+        <Sales>1858217.046</Sales>
+        <Quota>933333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>France</SalesTerritoryCountry>
+        <SalesTerritoryRegion>France</SalesTerritoryRegion>
+        <Salesperson>Ranjit Varkey Chudukatil</Salesperson>
+        <Phone>1 (11) 500 555-0117</Phone>
+        <Sales>408145.931</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Germany</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Germany</SalesTerritoryRegion>
+        <Salesperson>Rachel Valdez</Salesperson>
+        <Phone>1 (11) 500 555-0140</Phone>
+        <Sales>1123148.302</Sales>
+        <Quota>1500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United Kingdom</SalesTerritoryCountry>
+        <SalesTerritoryRegion>United Kingdom</SalesTerritoryRegion>
+        <Salesperson>Jae Pak</Salesperson>
+        <Phone>1 (11) 500 555-0145</Phone>
+        <Sales>2194439.305</Sales>
+        <Quota>2500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>Garrett Vargas</Salesperson>
+        <Phone>922-555-0165</Phone>
+        <Sales>172703.309</Sales>
+        <Quota>666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>José Saraiva</Salesperson>
+        <Phone>185-555-0169</Phone>
+        <Sales>805743.19</Sales>
+        <Quota>1666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Central</SalesTerritoryRegion>
+        <Salesperson>Jillian Carson</Salesperson>
+        <Phone>517-555-0117</Phone>
+        <Sales>1654658.516</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northeast</SalesTerritoryRegion>
+        <Salesperson>Michael Blythe</Salesperson>
+        <Phone>257-555-0154</Phone>
+        <Sales>1619192.15</Sales>
+        <Quota>2166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>David Campbell</Salesperson>
+        <Phone>740-555-0182</Phone>
+        <Sales>1005431.871</Sales>
+        <Quota>1000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Pamela Ansman-Wolfe</Salesperson>
+        <Phone>340-555-0193</Phone>
+        <Sales>1123303.359</Sales>
+        <Quota>1916666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Tete Mensa-Annan</Salesperson>
+        <Phone>615-555-0153</Phone>
+        <Sales>737408.04</Sales>
+        <Quota>1266666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southeast</SalesTerritoryRegion>
+        <Salesperson>Tsvi Reiter</Salesperson>
+        <Phone>664-555-0112</Phone>
+        <Sales>1134482.436</Sales>
+        <Quota>1666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Linda Mitchell</Salesperson>
+        <Phone>883-555-0116</Phone>
+        <Sales>1176974.101</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Shu Ito</Salesperson>
+        <Phone>330-555-0120</Phone>
+        <Sales>2124652.939</Sales>
+        <Quota>1666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200701</MonthKey>
+        <Month>2020 Jul</Month>
+        <SalesTerritoryGroup>Pacific</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Australia</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Australia</SalesTerritoryRegion>
+        <Salesperson>Lynn Tsoflias</Salesperson>
+        <Phone>1 (11) 500 555-0190</Phone>
+        <Sales>594436.08</Sales>
+        <Quota>1166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>France</SalesTerritoryCountry>
+        <SalesTerritoryRegion>France</SalesTerritoryRegion>
+        <Salesperson>Ranjit Varkey Chudukatil</Salesperson>
+        <Phone>1 (11) 500 555-0117</Phone>
+        <Sales>4665225.738</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Germany</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Germany</SalesTerritoryRegion>
+        <Salesperson>Rachel Valdez</Salesperson>
+        <Phone>1 (11) 500 555-0140</Phone>
+        <Sales>1437937.452</Sales>
+        <Quota>1500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United Kingdom</SalesTerritoryCountry>
+        <SalesTerritoryRegion>United Kingdom</SalesTerritoryRegion>
+        <Salesperson>Jae Pak</Salesperson>
+        <Phone>1 (11) 500 555-0145</Phone>
+        <Sales>2056027.5</Sales>
+        <Quota>2500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>Garrett Vargas</Salesperson>
+        <Phone>922-555-0165</Phone>
+        <Sales>1171963.98</Sales>
+        <Quota>666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>José Saraiva</Salesperson>
+        <Phone>185-555-0169</Phone>
+        <Sales>1107607.74</Sales>
+        <Quota>1666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Central</SalesTerritoryRegion>
+        <Salesperson>Jillian Carson</Salesperson>
+        <Phone>517-555-0117</Phone>
+        <Sales>1675725.554</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northeast</SalesTerritoryRegion>
+        <Salesperson>Michael Blythe</Salesperson>
+        <Phone>257-555-0154</Phone>
+        <Sales>3185455.86</Sales>
+        <Quota>2166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>David Campbell</Salesperson>
+        <Phone>740-555-0182</Phone>
+        <Sales>836158.441</Sales>
+        <Quota>1000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Pamela Ansman-Wolfe</Salesperson>
+        <Phone>340-555-0193</Phone>
+        <Sales>328204.567</Sales>
+        <Quota>1916666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Tete Mensa-Annan</Salesperson>
+        <Phone>615-555-0153</Phone>
+        <Sales>1627568.7</Sales>
+        <Quota>1266666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southeast</SalesTerritoryRegion>
+        <Salesperson>Tsvi Reiter</Salesperson>
+        <Phone>664-555-0112</Phone>
+        <Sales>1885397.651</Sales>
+        <Quota>1666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Linda Mitchell</Salesperson>
+        <Phone>883-555-0116</Phone>
+        <Sales>4971559.83</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Shu Ito</Salesperson>
+        <Phone>330-555-0120</Phone>
+        <Sales>858738.84</Sales>
+        <Quota>1666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200801</MonthKey>
+        <Month>2020 Aug</Month>
+        <SalesTerritoryGroup>Pacific</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Australia</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Australia</SalesTerritoryRegion>
+        <Salesperson>Lynn Tsoflias</Salesperson>
+        <Phone>1 (11) 500 555-0190</Phone>
+        <Sales>751246.56</Sales>
+        <Quota>1166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>France</SalesTerritoryCountry>
+        <SalesTerritoryRegion>France</SalesTerritoryRegion>
+        <Salesperson>Ranjit Varkey Chudukatil</Salesperson>
+        <Phone>1 (11) 500 555-0117</Phone>
+        <Sales>882754.674</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Germany</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Germany</SalesTerritoryRegion>
+        <Salesperson>Rachel Valdez</Salesperson>
+        <Phone>1 (11) 500 555-0140</Phone>
+        <Sales>817850.82</Sales>
+        <Quota>1500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United Kingdom</SalesTerritoryCountry>
+        <SalesTerritoryRegion>United Kingdom</SalesTerritoryRegion>
+        <Salesperson>Jae Pak</Salesperson>
+        <Phone>1 (11) 500 555-0145</Phone>
+        <Sales>3535787.431</Sales>
+        <Quota>2500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>Garrett Vargas</Salesperson>
+        <Phone>922-555-0165</Phone>
+        <Sales>1110536.342</Sales>
+        <Quota>666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>José Saraiva</Salesperson>
+        <Phone>185-555-0169</Phone>
+        <Sales>3108416.865</Sales>
+        <Quota>1666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Central</SalesTerritoryRegion>
+        <Salesperson>Jillian Carson</Salesperson>
+        <Phone>517-555-0117</Phone>
+        <Sales>2780906.474</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northeast</SalesTerritoryRegion>
+        <Salesperson>Michael Blythe</Salesperson>
+        <Phone>257-555-0154</Phone>
+        <Sales>2481255.411</Sales>
+        <Quota>2166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>David Campbell</Salesperson>
+        <Phone>740-555-0182</Phone>
+        <Sales>1096517.333</Sales>
+        <Quota>1000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Pamela Ansman-Wolfe</Salesperson>
+        <Phone>340-555-0193</Phone>
+        <Sales>1422099.721</Sales>
+        <Quota>1916666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Tete Mensa-Annan</Salesperson>
+        <Phone>615-555-0153</Phone>
+        <Sales>1511382.864</Sales>
+        <Quota>1266666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southeast</SalesTerritoryRegion>
+        <Salesperson>Tsvi Reiter</Salesperson>
+        <Phone>664-555-0112</Phone>
+        <Sales>1819498.316</Sales>
+        <Quota>1666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Linda Mitchell</Salesperson>
+        <Phone>883-555-0116</Phone>
+        <Sales>2366501.828</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Shu Ito</Salesperson>
+        <Phone>330-555-0120</Phone>
+        <Sales>1897901.846</Sales>
+        <Quota>1666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20200901</MonthKey>
+        <Month>2020 Sep</Month>
+        <SalesTerritoryGroup>Pacific</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Australia</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Australia</SalesTerritoryRegion>
+        <Salesperson>Lynn Tsoflias</Salesperson>
+        <Phone>1 (11) 500 555-0190</Phone>
+        <Sales>2005981.53</Sales>
+        <Quota>1166666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>France</SalesTerritoryCountry>
+        <SalesTerritoryRegion>France</SalesTerritoryRegion>
+        <Salesperson>Ranjit Varkey Chudukatil</Salesperson>
+        <Phone>1 (11) 500 555-0117</Phone>
+        <Sales>546027.827</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Germany</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Germany</SalesTerritoryRegion>
+        <Salesperson>Rachel Valdez</Salesperson>
+        <Phone>1 (11) 500 555-0140</Phone>
+        <Sales>1618324.73</Sales>
+        <Quota>2083333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United Kingdom</SalesTerritoryCountry>
+        <SalesTerritoryRegion>United Kingdom</SalesTerritoryRegion>
+        <Salesperson>Jae Pak</Salesperson>
+        <Phone>1 (11) 500 555-0145</Phone>
+        <Sales>3688813.812</Sales>
+        <Quota>3333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>Garrett Vargas</Salesperson>
+        <Phone>922-555-0165</Phone>
+        <Sales>48227.22</Sales>
+        <Quota>1000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>José Saraiva</Salesperson>
+        <Phone>185-555-0169</Phone>
+        <Sales>1100142.513</Sales>
+        <Quota>2333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Central</SalesTerritoryRegion>
+        <Salesperson>Jillian Carson</Salesperson>
+        <Phone>517-555-0117</Phone>
+        <Sales>2142108.735</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northeast</SalesTerritoryRegion>
+        <Salesperson>Michael Blythe</Salesperson>
+        <Phone>257-555-0154</Phone>
+        <Sales>1966522.561</Sales>
+        <Quota>2500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>David Campbell</Salesperson>
+        <Phone>740-555-0182</Phone>
+        <Sales>1283269.739</Sales>
+        <Quota>1000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Pamela Ansman-Wolfe</Salesperson>
+        <Phone>340-555-0193</Phone>
+        <Sales>1545711.277</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Tete Mensa-Annan</Salesperson>
+        <Phone>615-555-0153</Phone>
+        <Sales>1029265.79</Sales>
+        <Quota>1500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southeast</SalesTerritoryRegion>
+        <Salesperson>Tsvi Reiter</Salesperson>
+        <Phone>664-555-0112</Phone>
+        <Sales>1108579.968</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Linda Mitchell</Salesperson>
+        <Phone>883-555-0116</Phone>
+        <Sales>2307027.969</Sales>
+        <Quota>2833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Shu Ito</Salesperson>
+        <Phone>330-555-0120</Phone>
+        <Sales>2663973.921</Sales>
+        <Quota>1833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201001</MonthKey>
+        <Month>2020 Oct</Month>
+        <SalesTerritoryGroup>Pacific</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Australia</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Australia</SalesTerritoryRegion>
+        <Salesperson>Lynn Tsoflias</Salesperson>
+        <Phone>1 (11) 500 555-0190</Phone>
+        <Sales>588145.14</Sales>
+        <Quota>1333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>France</SalesTerritoryCountry>
+        <SalesTerritoryRegion>France</SalesTerritoryRegion>
+        <Salesperson>Ranjit Varkey Chudukatil</Salesperson>
+        <Phone>1 (11) 500 555-0117</Phone>
+        <Sales>6054040.648</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Germany</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Germany</SalesTerritoryRegion>
+        <Salesperson>Rachel Valdez</Salesperson>
+        <Phone>1 (11) 500 555-0140</Phone>
+        <Sales>1933292.76</Sales>
+        <Quota>2083333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United Kingdom</SalesTerritoryCountry>
+        <SalesTerritoryRegion>United Kingdom</SalesTerritoryRegion>
+        <Salesperson>Jae Pak</Salesperson>
+        <Phone>1 (11) 500 555-0145</Phone>
+        <Sales>2207524.072</Sales>
+        <Quota>3333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>Garrett Vargas</Salesperson>
+        <Phone>922-555-0165</Phone>
+        <Sales>1746595.908</Sales>
+        <Quota>1000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>José Saraiva</Salesperson>
+        <Phone>185-555-0169</Phone>
+        <Sales>1979757.815</Sales>
+        <Quota>2333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Central</SalesTerritoryRegion>
+        <Salesperson>Jillian Carson</Salesperson>
+        <Phone>517-555-0117</Phone>
+        <Sales>2098056.646</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northeast</SalesTerritoryRegion>
+        <Salesperson>Michael Blythe</Salesperson>
+        <Phone>257-555-0154</Phone>
+        <Sales>2424625.991</Sales>
+        <Quota>2500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>David Campbell</Salesperson>
+        <Phone>740-555-0182</Phone>
+        <Sales>1105356.435</Sales>
+        <Quota>1000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Pamela Ansman-Wolfe</Salesperson>
+        <Phone>340-555-0193</Phone>
+        <Sales>570370.671</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Tete Mensa-Annan</Salesperson>
+        <Phone>615-555-0153</Phone>
+        <Sales>2035493.099</Sales>
+        <Quota>1500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southeast</SalesTerritoryRegion>
+        <Salesperson>Tsvi Reiter</Salesperson>
+        <Phone>664-555-0112</Phone>
+        <Sales>2615047.359</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Linda Mitchell</Salesperson>
+        <Phone>883-555-0116</Phone>
+        <Sales>5210244.977</Sales>
+        <Quota>2833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Shu Ito</Salesperson>
+        <Phone>330-555-0120</Phone>
+        <Sales>1016289</Sales>
+        <Quota>1833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201101</MonthKey>
+        <Month>2020 Nov</Month>
+        <SalesTerritoryGroup>Pacific</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Australia</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Australia</SalesTerritoryRegion>
+        <Salesperson>Lynn Tsoflias</Salesperson>
+        <Phone>1 (11) 500 555-0190</Phone>
+        <Sales>989981.52</Sales>
+        <Quota>1333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>France</SalesTerritoryCountry>
+        <SalesTerritoryRegion>France</SalesTerritoryRegion>
+        <Salesperson>Ranjit Varkey Chudukatil</Salesperson>
+        <Phone>1 (11) 500 555-0117</Phone>
+        <Sales>1192362.994</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Germany</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Germany</SalesTerritoryRegion>
+        <Salesperson>Rachel Valdez</Salesperson>
+        <Phone>1 (11) 500 555-0140</Phone>
+        <Sales>1364572.38</Sales>
+        <Quota>2083333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>Europe</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United Kingdom</SalesTerritoryCountry>
+        <SalesTerritoryRegion>United Kingdom</SalesTerritoryRegion>
+        <Salesperson>Jae Pak</Salesperson>
+        <Phone>1 (11) 500 555-0145</Phone>
+        <Sales>4397840.526</Sales>
+        <Quota>3333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>Garrett Vargas</Salesperson>
+        <Phone>922-555-0165</Phone>
+        <Sales>1454130.082</Sales>
+        <Quota>1000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Canada</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Canada</SalesTerritoryRegion>
+        <Salesperson>José Saraiva</Salesperson>
+        <Phone>185-555-0169</Phone>
+        <Sales>4259791.088</Sales>
+        <Quota>2333333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Central</SalesTerritoryRegion>
+        <Salesperson>Jillian Carson</Salesperson>
+        <Phone>517-555-0117</Phone>
+        <Sales>3379862.219</Sales>
+        <Quota>2666666.666</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northeast</SalesTerritoryRegion>
+        <Salesperson>Michael Blythe</Salesperson>
+        <Phone>257-555-0154</Phone>
+        <Sales>3700069.824</Sales>
+        <Quota>2500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>David Campbell</Salesperson>
+        <Phone>740-555-0182</Phone>
+        <Sales>1419519.684</Sales>
+        <Quota>1000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Pamela Ansman-Wolfe</Salesperson>
+        <Phone>340-555-0193</Phone>
+        <Sales>1511138.773</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Northwest</SalesTerritoryRegion>
+        <Salesperson>Tete Mensa-Annan</Salesperson>
+        <Phone>615-555-0153</Phone>
+        <Sales>1433829.951</Sales>
+        <Quota>1500000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southeast</SalesTerritoryRegion>
+        <Salesperson>Tsvi Reiter</Salesperson>
+        <Phone>664-555-0112</Phone>
+        <Sales>2328918.645</Sales>
+        <Quota>2000000</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Linda Mitchell</Salesperson>
+        <Phone>883-555-0116</Phone>
+        <Sales>2827110.445</Sales>
+        <Quota>2833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>North America</SalesTerritoryGroup>
+        <SalesTerritoryCountry>United States</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Southwest</SalesTerritoryRegion>
+        <Salesperson>Shu Ito</Salesperson>
+        <Phone>330-555-0120</Phone>
+        <Sales>2201251.752</Sales>
+        <Quota>1833333.333</Quota>
+      </Row>
+      <Row>
+        <MonthKey>20201201</MonthKey>
+        <Month>2020 Dec</Month>
+        <SalesTerritoryGroup>Pacific</SalesTerritoryGroup>
+        <SalesTerritoryCountry>Australia</SalesTerritoryCountry>
+        <SalesTerritoryRegion>Australia</SalesTerritoryRegion>
+        <Salesperson>Lynn Tsoflias</Salesperson>
+        <Phone>1 (11) 500 555-0190</Phone>
+        <Sales>2273449.817</Sales>
+        <Quota>1333333.333</Quota>
+      </Row>
+    </Data>
+  </XmlData>
+  <ElementPath>Data{}/Row{MonthKey(String),Month(String),SalesTerritoryGroup(String),SalesTerritoryCountry(String),SalesTerritoryRegion(String),Salesperson(String),Phone(String),Sales(Float),Quota(Float)}</ElementPath>
+</Query>
